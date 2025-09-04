@@ -1,0 +1,17 @@
+[
+  {
+    "userId": 1,
+    "title": "My First Post",
+    "body": "This is the body of the first post."
+  },
+  {
+    "userId": 2,
+    "title": "Learning API Testing",
+    "body": "This post explains how to test APIs using Jest and Supertest."
+  },
+  {
+    "userId": 3,
+    "title": "JSONPlaceholder Example",
+    "body": "Sample post data for JSONPlaceholder fake API testing."
+  }
+]

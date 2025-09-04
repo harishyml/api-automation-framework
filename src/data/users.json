@@ -1,0 +1,59 @@
+[
+  {
+    "name": "John Doe",
+    "username": "johndoe",
+    "email": "john@example.com",
+    "address": {
+      "street": "123 Main St",
+      "suite": "Apt. 101",
+      "city": "New York",
+      "zipcode": "10001",
+      "geo": { "lat": "40.7128", "lng": "-74.0060" }
+    },
+    "phone": "1-555-123-4567",
+    "website": "johndoe.org",
+    "company": {
+      "name": "Doe Enterprises",
+      "catchPhrase": "Innovating the future",
+      "bs": "empower next-gen solutions"
+    }
+  },
+  {
+    "name": "Jane Smith",
+    "username": "janesmith",
+    "email": "jane@example.com",
+    "address": {
+      "street": "456 Market St",
+      "suite": "Suite 202",
+      "city": "San Francisco",
+      "zipcode": "94105",
+      "geo": { "lat": "37.7749", "lng": "-122.4194" }
+    },
+    "phone": "1-555-987-6543",
+    "website": "janesmith.net",
+    "company": {
+      "name": "Smith Solutions",
+      "catchPhrase": "Delivering excellence",
+      "bs": "streamline business processes"
+    }
+  },
+  {
+    "name": "Alice Johnson",
+    "username": "alicej",
+    "email": "alice@example.com",
+    "address": {
+      "street": "789 Broadway",
+      "suite": "Apt. 303",
+      "city": "Los Angeles",
+      "zipcode": "90001",
+      "geo": { "lat": "34.0522", "lng": "-118.2437" }
+    },
+    "phone": "1-555-321-9876",
+    "website": "alicejohnson.com",
+    "company": {
+      "name": "Johnson Tech",
+      "catchPhrase": "Innovating with purpose",
+      "bs": "create cutting-edge solutions"
+    }
+  }
+]

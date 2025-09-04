@@ -1,0 +1,22 @@
+{
+  "name": "Updated Name",
+  "username": "updatedUsername",
+  "email": "updated@example.com",
+  "address": {
+    "street": "123 Updated St",
+    "suite": "Suite 100",
+    "city": "Updated City",
+    "zipcode": "12345",
+    "geo": {
+      "lat": "12.3456",
+      "lng": "65.4321"
+    }
+  },
+  "phone": "123-456-7890",
+  "website": "updatedwebsite.com",
+  "company": {
+    "name": "Updated Company",
+    "catchPhrase": "Innovation for all",
+    "bs": "updated-bs"
+  }
+}
